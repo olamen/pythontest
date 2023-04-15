@@ -1,0 +1,4 @@
+cin;nom;prenom
+36;sidi;yedali
+31;hamoud;yedali
+39;didi;yedali

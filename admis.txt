@@ -1,0 +1,13 @@
+31;sidi;yedali;38;admis(e)
+31;hamoud;yedali;39;admis(e)
+31;didi;yedali;36;admis(e)
+22;Metou;Mohamed;26;admis(e)01;Med1;ahmed1;20;admis(e);
+04;isselmou;ali;32;admis(e);
+31;sidi;yedali;38;admis(e)
+31;didi;yedali;36;admis(e)
+01;Med1;ahmed1;20;admis(e);
+04;isselmou;ali;32;admis(e);
+31;sidi;yedali;38;admis(e)
+31;hamoud;yedali;39;admis(e)
+31;didi;yedali;36;admis(e)
+22;Metou;Mohamed;26;admis(e)

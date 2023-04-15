@@ -1,0 +1,2 @@
+cin;nom;prenom;age;decision;
+22;Metou;Mohamed;26;admis(e);
